@@ -1,7 +1,7 @@
 #Escribe un programa que solicite al usuario un número entero positivo y luego imprima todos 
 #los números primos menores o iguales a ese número utilizando un bucle while.
 
-numer = int(input("Introduce un número entero y positivo: "))
+numer = int(input("Introduce un numero entero y positivo: "))
 primo = 2  
 
 
